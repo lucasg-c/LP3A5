@@ -13,7 +13,7 @@ Linguagem Java.
 - **[Aula 3](https://github.com/lucasg-c/LP3A5/tree/master/A3-Threads/src/main)**: Threads  
   Alguns exemplos quanto ao uso de Threads.
   
-- **[Aula 4](https://github.com/lucasg-c/LP3A5/tree/master/A4-CasoProducerConsumer)**: Casos clássicos: Produtor - Consumidor  
+- **[Aula 4](https://github.com/lucasg-c/LP3A5/tree/master/A4-CasoProducerConsumer/src)**: Casos clássicos: Produtor - Consumidor  
   Implementação de algoritmo Producer Consumer. Código retirado do site "Geeksforgeeks".
   
 - **[Aula 7](https://github.com/lucasg-c/LP3A5/tree/master/A7-Streams/src)**: Streams  
@@ -25,11 +25,14 @@ Linguagem Java.
 - **[Aula 8](https://github.com/lucasg-c/LP3A5/tree/master/A8-Optional/src)**: Optionals e Exceptions  
   Exemplos de Optional vistos em aula.
   
-- **[Aula 8](https://github.com/lucasg-c/LP3A5/tree/master/A8-Exceptions-Exercicios)**: Optionals e Exceptions — Exercícios de Exceptions  
+- **[Aula 8](https://github.com/lucasg-c/LP3A5/tree/master/A8-Exceptions-Exercicios/src)**: Optionals e Exceptions — Exercícios de Exceptions  
   Exercício com aplicações de Exceptions.
   
 - **[Aula 9](https://github.com/lucasg-c/LP3A5/tree/master/A9-Metaprogramming/src)**: Metaprogramming  
   Exemplos em código de conceitos de Metaprogramação vistos em aula.
+  
+- **[Aula 9](https://github.com/lucasg-c/LP3A5/tree/master/A9-Metaprogramming-Exercicios/src)**: Metaprogramming — Exercícios de Reflection  
+  Exercício com aplicações de Reflection.
 
 ## Autor
 Yours truly.
